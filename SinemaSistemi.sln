@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinemaSistemi", "SinemaSistemi\SinemaSistemi.csproj", "{0F92F878-A406-44AC-AD82-61A89D1681C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinemaSistemi.sinif", "SinemaSistemi.sinif\SinemaSistemi.sinif.csproj", "{3143C4F6-D7B6-484E-838C-936DD3A9EF37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F92F878-A406-44AC-AD82-61A89D1681C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F92F878-A406-44AC-AD82-61A89D1681C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F92F878-A406-44AC-AD82-61A89D1681C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F92F878-A406-44AC-AD82-61A89D1681C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3143C4F6-D7B6-484E-838C-936DD3A9EF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3143C4F6-D7B6-484E-838C-936DD3A9EF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3143C4F6-D7B6-484E-838C-936DD3A9EF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3143C4F6-D7B6-484E-838C-936DD3A9EF37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD1483C2-67C3-4A07-A8F7-82575B87FD67}
+	EndGlobalSection
+EndGlobal
