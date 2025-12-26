@@ -81,16 +81,4 @@ Proje, yazılım dünyasının en kritik prensiplerini uygulamalı olarak içerm
 3. `SinemaBiletSistemi` projesine sağ tıklayıp **"Set as Startup Project"** (Başlangıç Projesi) olarak ayarlayın.
 4. `F5` tuşuna basarak projeyi Build edin ve çalıştırın.
 
-```
 
----
-
-### Ne Değişti?
-1.  **Badge'ler eklendi:** Projenin hangi dilleri kullandığını en üstte renkli butonlarla belirttik.
-2.  **Tablo yapısı:** Teknik mimariyi daha okunabilir bir tabloya taşıdık.
-3.  **Görsel Düzenleme:** Ekran görüntülerini yan yana (p align="center") gelecek şekilde grupladım, böylece README sayfan çok uzun ve karmaşık durmaz.
-4.  **Emoji Desteği:** Başlıklara ilgili emojiler ekleyerek görsel zenginlik kattım.
-
-**Bu README'yi GitHub'a yükledikten sonra yapmamı istediğin başka bir şey var mı?** Örneğin bir kapak görseli oluşturabiliriz.
-
-```
