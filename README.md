@@ -11,10 +11,10 @@ Bu proje, **C# ve Windows Forms** kullanılarak geliştirilmiş, Nesne Yöneliml
 
 ##  Öne Çıkan Özellikler
 
-* ** Katmanlı Mimari:** İş mantığı (`Class Library`) ve kullanıcı arayüzü (`WinForms`) birbirinden tamamen ayrılmıştır.
-* ** Dinamik Film Detayları:** Film bilgileri sabit metinler yerine; ilgili film sınıflarından (`Zootropolis`, `F1`, `Yan Yana`) polimorfik olarak çekilir.
-* ** Esnek Ödeme Yöntemleri:** `Interface` yapısı kullanılarak Nakit, Kredi Kartı ve QR Kod ile ödeme seçenekleri sisteme entegre edilmiştir.
-* ** Kullanıcı Yönetimi:** Güvenli giriş yapma ve yeni üye kaydı modülleri mevcuttur.
+*  Katmanlı Mimari: İş mantığı (`Class Library`) ve kullanıcı arayüzü (`WinForms`) birbirinden tamamen ayrılmıştır.
+*  Dinamik Film Detayları: Film bilgileri sabit metinler yerine; ilgili film sınıflarından (`Zootropolis`, `F1`, `Yan Yana`) polimorfik olarak çekilir.
+*  Esnek Ödeme Yöntemleri: `Interface` yapısı kullanılarak Nakit, Kredi Kartı ve QR Kod ile ödeme seçenekleri sisteme entegre edilmiştir.
+*  Kullanıcı Yönetimi: Güvenli giriş yapma ve yeni üye kaydı modülleri mevcuttur.
 
 ---
 
